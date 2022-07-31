@@ -1,4 +1,4 @@
-<img src=https://user-images.githubusercontent.com/68887544/182011989-f9026ec6-4286-4d8b-bc26-c43dcf0643e9.png width=150px align=left>
+<img src=https://user-images.githubusercontent.com/68887544/182011989-f9026ec6-4286-4d8b-bc26-c43dcf0643e9.png width=200px align=left>
 
 `Shreyas Chavhan`
 
