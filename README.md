@@ -1,5 +1,6 @@
-`Shreyas Chavhan`
 <img src=https://user-images.githubusercontent.com/68887544/182011989-f9026ec6-4286-4d8b-bc26-c43dcf0643e9.png width=150px align=left>
+
+`Shreyas Chavhan`
 
 
 ## ⁍ 𝐑𝐞𝐟𝐥𝐞𝐜𝐭𝐨𝐫 - 𝐂𝐡𝐞𝐜𝐤 𝐆𝐞𝐭 𝐏𝐚𝐫𝐚𝐦𝐞𝐭𝐞𝐫 𝐑𝐞𝐟𝐥𝐞𝐜𝐭𝐢𝐨𝐧 𝐢𝐧 𝐑𝐞𝐬𝐩𝐨𝐧𝐬𝐞
@@ -7,7 +8,7 @@
 Reflector is a simple python3 script to automate the process of finding reflected get parameters to simplify reflected XSS finding process for personal use.
 
 
-## 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧
+## ⁍ 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧
 
 - Installation:
 ```
@@ -19,7 +20,7 @@ git clone https://github.com/shreyaschavhan/reflector
 pip install requests
 ```
 
-## 𝐔𝐬𝐚𝐠𝐞
+## ⁍ 𝐔𝐬𝐚𝐠𝐞
 
 ```
 python reflector.py file.txt
@@ -27,14 +28,14 @@ python reflector.py file.txt
 
 - where `file.txt` is any file with a list of urls with GET parameters
  
-## 𝐍𝐨𝐭𝐞𝐬
+## ⁍ 𝐍𝐨𝐭𝐞𝐬
 
 - This script was created for personal use.
 - The script uses `"xssteststring"` as a test string by default to check for the reflection. Feel free to use your own string.
 - Output of the script is stored at `./output.txt`
 - Output contains all urls with parameters that reflects `xssteststring` in it's response.
 
-## 𝐄𝐱𝐚𝐦𝐩𝐥𝐞
+## ⁍ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞
 
 - `file.txt`
 ```
